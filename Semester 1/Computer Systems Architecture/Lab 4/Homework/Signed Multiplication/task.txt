@@ -1,2 +1,0 @@
-Compute signed (a*b+2)/(a+7-c)+d+x
-a,c-byte; b-word; d-doubleword; x-qword

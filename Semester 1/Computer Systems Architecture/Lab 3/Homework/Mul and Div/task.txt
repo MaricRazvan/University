@@ -1,3 +1,0 @@
-compute [(a-b)*3+c*2]-d 
-a,b,c byte
-d word
